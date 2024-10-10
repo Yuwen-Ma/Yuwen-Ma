@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{pub.html}, nofooter   
+== Publications
+
+== Journal Papers
+
+~~~
+- {{<b>Y Ma</b>}}, X Li, S Li, Z Lin. \"Reduced-Order Consensus Protocols with Pure Relative Output: Design, Existence, and Dual Results.\" IEEE Transactions on Automatic Control, Under Review (Conditionally Accepted).
+- {{<b>Y Ma</b>}}, X Li, S Li. \"A reduced-order protocol for linear multi-agent consensus without inter-controller communication.\" Acta Automatica Sinica, 2023, 49(9): 1836-1844 [http://aas.net.cn/article/doi/10.16383/j.aas.c220420 PDF].
+~~~
+
+== Peer-Reviewed Conference Papers
+
+~~~
+- {{<b>Y Ma</b>}}, X Li, S Li. \"Consensus of Linear Multi-agent Systems with Pure Relative Output Through Fully Distributed Reduced-Order Protocols.\" IFAC-PapersOnLine, 2023, 56(2): 10162-10167. [https://www.sciencedirect.com/science/article/pii/S2405896323012727 PDF]
+- {{<b>Y Ma</b>}}, X Li, S Li. \"A Novel Protocol with Pure Relative Output Information for Consensus of Linear Multi-Agent Systems.\" In 61st IEEE Conference on Decision and Control: 340-345. [https://ieeexplore.ieee.org/document/9993394 PDF]
+~~~
